@@ -1,10 +1,4 @@
-body,
-* {
-  background-color: gray;
-}
-.container {
+*,
+body {
   text-align: center;
-}
-#text-input {
-  color: white;
 }
