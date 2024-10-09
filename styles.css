@@ -1,0 +1,10 @@
+body,
+* {
+  background-color: gray;
+}
+.container {
+  text-align: center;
+}
+#text-input {
+  color: white;
+}
